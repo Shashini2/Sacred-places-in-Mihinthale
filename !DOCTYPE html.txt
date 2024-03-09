@@ -4,7 +4,15 @@
         <title>Sacred Places in Mihintale</title>
    </head>
        <body>
+		<p><front size="48" face"Ties new romen" color="black">Sacred Places in Mihintale</front></p>
+		<p><front face="Times new roman">Mihintale is a mountain peak near Anuradhapura in Sri Lanka. It is believed by Sri Lankans to be the site of a meeting between the Buddhist monk Mahinda and King Devanampiyatissa which inaugurated the presence of Buddhism in Sri Lanka. It is now a pilgrimage site, and the site of several religious monuments and abandoned structures.
 
+Mihintale Rock is a sacred place among Buddhists since there is a very well-known historical story related to the arrival of Buddhism in Sri Lanka. Therefore, it is known to be a sacred Buddhist religious place among Buddhist pilgrims. This location appeals to both locals and tourists. If you love to visit a place full of lots of things all in the same place, including a mini hike, learning history, and moving deep into Sri Lankan culture, we highly suggest this place, which is one of the best-known places for that.
+
+we can introduce this place as the place where the inauguration of Buddhism in Sri Lanka took place. Mihintale Rock is one of the rocks in Sri Lanka where you can see a beautiful view from the summit. 
+
+Mihintale Peak is 311 m (1,019 feet) in height. Mihintale Rock, Mihintale Temple, and Viharaya are all located on the same site as Mihintale Rock. There are rock steps carved into the rock in order to reach the summit. It is estimated that 1840 rock-carved steps were required to reach the summit of the rock.
+		<center><img src=""C:\Users\M A N I S H A\Desktop\download (1).jpeg"width= "500" height="500"><\img><\center>
 
 
        </body>
