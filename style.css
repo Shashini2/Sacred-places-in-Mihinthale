@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+
+
+
+}
+
+header {
+	font-family:"calligraffitti";
+	text-shadow:3px 3px 3px DimGrey;
+    background-color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    
+    color: black;
+    text-align: center;
+}
+
+nav ul {
+	background-color:gray;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+h2 {
+	font-family:"calligraffitti";
+	text-shadow:3px 3px 3px DimGrey;
+    background-color:Violet ;
+    text-align: center;
+    padding: 20px 0;
+}
